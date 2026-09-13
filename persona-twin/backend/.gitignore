@@ -1,0 +1,15 @@
+# Environment variables and secrets
+.env
+
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Local data and uploaded files folder
+data/
+
+# Virtual environments
+venv/
+env/
+.venv/
